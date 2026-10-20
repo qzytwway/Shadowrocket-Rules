@@ -46,6 +46,11 @@ DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,siftscience.com
+DOMAIN-KEYWORD,datadog
+
+
 
 # > Microsoft Copilot
 DOMAIN,copilot.microsoft.com

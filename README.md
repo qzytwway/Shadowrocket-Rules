@@ -16,7 +16,8 @@
 
 或者扫描二维码
 
-<img width="200" height="200" alt="ctool-2026-02-26-17-13-16" src="https://github.com/user-attachments/assets/22f1b4f7-3265-493c-9e5a-2b662924ed2f" />
+<img width="450" height="450" alt="qrcode_github com" src="https://github.com/user-attachments/assets/3e03bd35-6cf3-48f3-8fe0-648a27fdfcf1" />
+
 
 ## 分流规则
 
